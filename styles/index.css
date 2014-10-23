@@ -64,5 +64,21 @@
 
 #headline1 {
     position: relative;
-    top: 100px;
+    top: 20%;
+    font-size: 40px;
+    font-weight: bolder;
+}
+
+#headline2 {
+    position: relative;
+    top: 70%;
+    font-size: 50px;
+    font-weight: bolder;
+}
+
+#headline3 {
+    position: relative;
+    top: 22%;
+    font-size: 35px;
+    font-weight: bolder;
 }
