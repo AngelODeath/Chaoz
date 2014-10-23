@@ -61,3 +61,8 @@
     list-style: square;
     height: 20px;
 }
+
+#headline1 {
+    position: relative;
+    top: 100px;
+}
