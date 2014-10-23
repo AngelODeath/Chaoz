@@ -1,0 +1,67 @@
+/* 
+    Created on : 23-Oct-2014, 19:42:12
+    Author     : Gabri
+*/
+body { 
+    background-color: #fff; 
+    font-family: Rockwell, "Courier Bold", Courier, Georgia, Times, "Times New Roman", serif;
+}
+.container { 
+    background-image: url(../images/background.png);
+    background-position:center;
+    width: auto;
+    height:2048px;
+}
+
+#heading {
+    padding-top: 100px;
+    font-size: 60px;
+}
+
+#subheading {
+    border-radius: 5px 10px;
+    -moz-border-radius: 5px 10px;
+    -webkit-border-radius: 5px 10px;
+    
+    background: rgba(255, 255, 255, 0.5);
+  
+    font-size: 20px;
+}
+
+#main_page_body {
+    height: 1700px;
+}
+
+#footer {
+    float: left;
+    clear: both;
+    position: relative;
+}
+
+#top-footer {
+    font-size: .8em;
+    height: 100px;
+    margin:0; 
+    background: rgba(255, 130, 130, 0.4);
+}
+
+#copyright-footer {
+    height: 32px;
+    vertical-align: middle;
+    font-size: 0.8em;
+    line-height: 32px;
+    padding: 10px;
+    background: rgba(255, 50, 50, 0.4);
+}
+
+#footcon_linklist_header_1 {
+    font-size: large;
+}
+#footcon_linklist_header_2 {
+    font-size: large;
+}
+
+.footcon_linkitem_1 {
+    list-style: square;
+    height: 20px;
+}
