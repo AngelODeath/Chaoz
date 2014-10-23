@@ -3,7 +3,8 @@
     Author     : Gabri
 */
 body { 
-    background-color: #fff; 
+    background: no-repeat url(../images/body.png);
+    background-size: 100% 100%;
     font-family: Rockwell, "Courier Bold", Courier, Georgia, Times, "Times New Roman", serif;
     padding: 30px 0 30px 0;
 }

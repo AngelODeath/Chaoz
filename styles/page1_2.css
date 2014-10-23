@@ -2,4 +2,27 @@
     Created on : 23-Oct-2014, 22:34:00
     Author     : Gabri
 */
+#container {
+    height: 100%;
+    padding: 10px;
+}
 
+.section_heading{    
+    font-size: 30px;
+    font-weight: bolder;
+    display: block;
+}
+
+.page {
+    display: inline;
+}
+
+#page_1 {
+    background-color: #FFFFFF;
+    margin: 10px;
+}
+
+#page_2 {
+    background-color: #FFFFFF;
+    margin: 10px;
+}
