@@ -15,4 +15,8 @@ $(function() {
     page_right_div.click(function(e){
         window.location = "page1_2.html";
     });
+    
+    //$.stratus({
+    //    links: 'http://soundcloud.com/foofighters/sets/wasting-light'
+    //});
 });
